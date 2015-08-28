@@ -1,0 +1,5 @@
+C:\Users\Rakesh\Desktop\canvas\RkCall\obj\Release\android\assets\RkCall.dll
+C:\Users\Rakesh\Desktop\canvas\RkCall\obj\Release\android\assets\Mono.Android.dll
+C:\Users\Rakesh\Desktop\canvas\RkCall\obj\Release\android\assets\mscorlib.dll
+C:\Users\Rakesh\Desktop\canvas\RkCall\obj\Release\android\assets\System.Core.dll
+C:\Users\Rakesh\Desktop\canvas\RkCall\obj\Release\android\assets\System.dll

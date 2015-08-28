@@ -1,0 +1,16 @@
+C:\Users\Rakesh\Desktop\canvas\RkCall\bin\Release\RkCall.dll
+C:\Users\Rakesh\Desktop\canvas\RkCall\bin\Release\RkCall.pdb
+C:\Users\Rakesh\Desktop\canvas\RkCall\bin\Release\com.companyname.rkcall.apk
+C:\Users\Rakesh\Desktop\canvas\RkCall\bin\Release\com.companyname.rkcall-Signed.apk
+C:\Users\Rakesh\Desktop\canvas\RkCall\obj\Release\RkCall.dll
+C:\Users\Rakesh\Desktop\canvas\RkCall\obj\Release\RkCall.pdb
+C:\Users\Rakesh\Desktop\canvas\RkCall\obj\Release\android\bin\com.companyname.rkcall.apk
+C:\Users\Rakesh\Desktop\canvas\RkCall\obj\Release\res\layout\main.xml
+C:\Users\Rakesh\Desktop\canvas\RkCall\obj\Release\res\values\strings.xml
+C:\Users\Rakesh\Desktop\canvas\RkCall\obj\Release\res\drawable-hdpi\icon.png
+C:\Users\Rakesh\Desktop\canvas\RkCall\obj\Release\res\drawable-mdpi\icon.png
+C:\Users\Rakesh\Desktop\canvas\RkCall\obj\Release\res\drawable-xhdpi\icon.png
+C:\Users\Rakesh\Desktop\canvas\RkCall\obj\Release\res\drawable-xxhdpi\icon.png
+C:\Users\Rakesh\Desktop\canvas\RkCall\obj\Release\res\drawable-xxxhdpi\icon.png
+C:\Users\Rakesh\Desktop\canvas\RkCall\obj\Release\R.cs.flag
+C:\Users\Rakesh\Desktop\canvas\RkCall\obj\Release\uploadflags.txt

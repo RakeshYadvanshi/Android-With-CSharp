@@ -1,0 +1,6 @@
+C:\Users\Rakesh\Desktop\call\obj\Debug\assemblies\RkCall.dll
+C:\Users\Rakesh\Desktop\call\obj\Debug\assemblies\Mono.Android.dll
+C:\Users\Rakesh\Desktop\call\obj\Debug\assemblies\mscorlib.dll
+C:\Users\Rakesh\Desktop\call\obj\Debug\assemblies\System.Core.dll
+C:\Users\Rakesh\Desktop\call\obj\Debug\assemblies\System.dll
+C:\Users\Rakesh\Desktop\call\obj\Debug\assemblies\System.Xml.dll

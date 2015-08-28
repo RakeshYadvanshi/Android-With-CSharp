@@ -1,0 +1,4 @@
+RkCall.MainActivity, RkCall;md55e75483eecb0605ad74c4a18e098643e.MainActivity
+RkCall.MainActivity, RkCall, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md55e75483eecb0605ad74c4a18e098643e.MainActivity
+RkCall.MainActivity;md55e75483eecb0605ad74c4a18e098643e.MainActivity
+rkcall.MainActivity;md55e75483eecb0605ad74c4a18e098643e.MainActivity
